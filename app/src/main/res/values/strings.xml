@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">roomDemo</string>
+    <string name="FIRST_NAME">First Name</string>
+    <string name="ENTER_FIRST_NAME_HINT">enter first name</string>
+    <string name="ENTER_LAST_NAME_HINT">enter last name</string>
+    <string name="FIRST_NAME_TEXT">First name</string>
+    <string name="LAST_NAME_TEXT">Last name</string>
+</resources>
